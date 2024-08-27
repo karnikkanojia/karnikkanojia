@@ -7,7 +7,7 @@ I like to work on a project which interests me, randomly. I love to convert proj
 - 🔭 I’m currently working on - A open-source and accessible DL models for Medical Usages and several hackathons.
 - 🌱 I’m currently learning - Blockchain and networks.
 - 📫 How to reach me - <a href="mailto:karnikk1406120@gmail.com"> karnikk1406120@gmail.com </a>
-- 🧑‍💻 You can check my portfolio at - <a href="https://karnikkanojia.tech">karnikkanojia.tech</a>
+- 🧑‍💻 You can check my portfolio at - <a href="https://karnikkanojia.github.io">karnikkanojia.github.io</a>
 
 ## Tech Stack
 
